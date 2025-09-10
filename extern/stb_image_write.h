@@ -1,0 +1,1 @@
+// Place stb_image_write.h here (https://github.com/nothings/stb)
